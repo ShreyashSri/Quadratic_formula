@@ -5,5 +5,5 @@ Handles cases where:</br>
   --->Discriminant is zero: One real solution</br>
   --->Discriminant is negative: Two complex solutions</br>
 [Points to be noted while entering equation]</br>
-"1". x^2 should be written as xx</br>
-"2". under root values in equation should be written as 2**1/2(e.g)</br>
+1. x^2 should be written as xx</br>
+2. under root values in equation should be written as 2**1/2(e.g)</br>
